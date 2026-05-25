@@ -34,15 +34,12 @@ In the above table, `d` represents the square root of the combined population an
 ## Reference
 
 ```
-@article{miotti-hellweg-2025,
+@article{miotti-hellweg-2026,
   author  = {Miotti, Marco and Hellweg, Stefanie},
   title   = {Efficient and representative door-to-door travel time estimation for planning and policy},
   journal = {Transportation},
-  year    = {2025},
-  volume  = {},
-  number  = {},
-  pages   = {},
-  url = {},
-  doi = {},
+  year    = {2026},
+  url = {https://link.springer.com/article/10.1007/s11116-025-10705-7},
+  doi = {doi.org/10.1007/s11116-025-10705-7},
 }
 ```
